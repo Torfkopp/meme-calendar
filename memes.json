@@ -1,0 +1,127 @@
+{
+    "January": {
+
+    },
+    "February": {
+        "15": {
+            "name": "Annoy Squidward Day",
+            "description": "A day SpongeBob and Patrick annoy Squidward more than usual.",
+            "origin": "SpongeBob"
+        } 
+    },
+    "March": {
+        "8": {
+            "name": "Bikini Bottom Annual Free Day",
+            "description": "A day where all the citizens of Bikini Bottom get free food and drinks.",
+            "origin": "SpongeBob"
+        },
+        "14": {
+            "name": "Pi Day",
+            "description": "",
+            "origin": ""
+        }
+    },
+    "April": {
+        "1": {
+            "name": "April Fools Day",
+            "description": "A day where everyone plays pranks on each other.",
+            "origin": ""
+        },
+        "20": {
+            "name": "420",
+            "description": "Smoke weed and remember, nobody special was born today.",
+            "origin": ""
+        },
+        "30": {
+            "name": "It's gonna be May",
+            "description": "https://planetwordmuseum.org/wp-content/uploads/2022/04/rs_600x420-140430102817-560.may2_.cm_.43014.webp",
+            "origin": ""
+        }
+    },
+    "May": {
+        "4": {
+            "name": "Star Wars Day",
+            "description": "May the 4th be with you.",
+            "origin": ""
+        },
+        "25": {
+            "name": "Towel Day",
+            "description": "A day to remember Douglas Adams.",
+            "origin": ""
+        }
+    },
+    "June": {},
+    "July": {},
+    "August": {
+        "15": [
+            {
+                "name": "National No SpongeBob Day",
+                "description": "A day where everyone in Bikini Bottom has to go without SpongeBob.",
+                "origin": "SpongeBob"
+            },
+            {
+                "name": "National No Patrick Day",
+                "description": "A day where everyone in Bikini Bottom has to go without Patrick.",
+                "origin": "SpongeBob"
+            }
+        ]
+    },
+    "September": {
+        "11": {
+            "name": "Aeroplane Day",
+            "description": "Jet fuel can't melt steel beams.",
+            "origin": ""
+        },
+        "19": {
+            "name": "Talk Like a Pirate Day",
+            "description": "A day where everyone talks like a pirate.",
+            "origin": ""
+        }
+    },
+    "October": {
+        "1": {
+            "name": "Begin of Spooktober",
+            "description": "",
+            "origin": ""
+        },
+        "3": {
+            "name": "Mean Girls Day",
+            "description": "",
+            "origin": ""
+        },
+        "9": {
+            "name": "Leif Erikson Day",
+            "description": "Hinga dinga dergen.",
+            "origin": ["SpongeBob", "Real Life"]
+        },
+        "31": {
+            "name": "Halloween",
+            "description": "",
+            "origin": ""
+        }
+    },
+    "November": {
+        "1": {
+            "name": "Nightmare Before Christmas Day",
+            "description": "",
+            "origin": ""
+        },
+        "5": {
+            "name": "",
+            "description": "Remember, remember the 5th of November.",
+            "origin": ""
+        }
+    },
+    "December": {
+        "1": {
+            "name": "Padoru",
+            "description": "Hashire Sore Yo",
+            "origin": ""
+        },
+        "27": {
+            "name": "Free Balloon Day",
+            "description": "A day where all the citizens of Bikini Bottom get free balloons.",
+            "origin": "SpongeBob"
+        }
+    }
+}
