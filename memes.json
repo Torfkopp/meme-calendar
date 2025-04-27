@@ -1,15 +1,15 @@
 {
-    "January": {
+    "1": {
 
     },
-    "February": {
+    "2": {
         "15": {
             "name": "Annoy Squidward Day",
             "description": "A day SpongeBob and Patrick annoy Squidward more than usual.",
             "origin": "SpongeBob"
         } 
     },
-    "March": {
+    "3": {
         "8": {
             "name": "Bikini Bottom Annual Free Day",
             "description": "A day where all the citizens of Bikini Bottom get free food and drinks.",
@@ -17,42 +17,42 @@
         },
         "14": {
             "name": "Pi Day",
-            "description": "",
-            "origin": ""
+            "description": "3.14159265358979323846...",
+            "origin": "Tribute"
         }
     },
-    "April": {
+    "4": {
         "1": {
-            "name": "April Fools Day",
+            "name": "April Fool's Day",
             "description": "A day where everyone plays pranks on each other.",
-            "origin": ""
+            "origin": "Custom"
         },
         "20": {
             "name": "420",
             "description": "Smoke weed and remember, nobody special was born today.",
-            "origin": ""
+            "origin": "Memes"
         },
         "30": {
             "name": "It's gonna be May",
             "description": "https://planetwordmuseum.org/wp-content/uploads/2022/04/rs_600x420-140430102817-560.may2_.cm_.43014.webp",
-            "origin": ""
+            "origin": "Memes"
         }
     },
-    "May": {
+    "5": {
         "4": {
             "name": "Star Wars Day",
             "description": "May the 4th be with you.",
-            "origin": ""
+            "origin": "Tribute"
         },
         "25": {
             "name": "Towel Day",
             "description": "A day to remember Douglas Adams.",
-            "origin": ""
+            "origin": "Tribute"
         }
     },
-    "June": {},
-    "July": {},
-    "August": {
+    "6": {},
+    "7": {},
+    "8": {
         "15": [
             {
                 "name": "National No SpongeBob Day",
@@ -66,57 +66,57 @@
             }
         ]
     },
-    "September": {
+    "9": {
         "11": {
             "name": "Aeroplane Day",
             "description": "Jet fuel can't melt steel beams.",
-            "origin": ""
+            "origin": "Tragedy"
         },
         "19": {
             "name": "Talk Like a Pirate Day",
             "description": "A day where everyone talks like a pirate.",
-            "origin": ""
+            "origin": "Parody"
         }
     },
-    "October": {
+    "10": {
         "1": {
             "name": "Begin of Spooktober",
-            "description": "",
-            "origin": ""
+            "description": "Spooky Scary Skeletons",
+            "origin": "Memes"
         },
         "3": {
             "name": "Mean Girls Day",
-            "description": "",
-            "origin": ""
+            "description": "It's October 3rd.",
+            "origin": "Films"
         },
         "9": {
             "name": "Leif Erikson Day",
             "description": "Hinga dinga dergen.",
-            "origin": ["SpongeBob", "Real Life"]
+            "origin": ["SpongeBob", "Real Holiday"]
         },
         "31": {
             "name": "Halloween",
-            "description": "",
-            "origin": ""
+            "description": "Masquerade, masquerade. Grab your mask and don't be late",
+            "origin": "Real Holiday"
         }
     },
-    "November": {
+    "11": {
         "1": {
-            "name": "Nightmare Before Christmas Day",
-            "description": "",
-            "origin": ""
+            "name": "The Nightmare Before Christmas",
+            "description": "364 days to Halloween.",
+            "origin": "Films"
         },
         "5": {
-            "name": "",
+            "name": "5th of November",
             "description": "Remember, remember the 5th of November.",
-            "origin": ""
+            "origin": "Films"
         }
     },
-    "December": {
+    "12": {
         "1": {
-            "name": "Padoru",
+            "name": "Padoru Start",
             "description": "Hashire Sore Yo",
-            "origin": ""
+            "origin": "Memes"
         },
         "27": {
             "name": "Free Balloon Day",
